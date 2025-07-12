@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+instance/
+*.sqlite3
+
+# Node.js / React
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+
+# macOS
+.DS_Store
